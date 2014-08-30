@@ -1,0 +1,28 @@
+{
+  "name": "prepend-child",
+  "version": "0.0.0",
+  "description": "The inverse of `Element#appendChild()`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/prepend-child.git"
+  },
+  "keywords": [
+    "browser",
+    "element",
+    "append",
+    "prepend",
+    "child",
+    "appendChild",
+    "prependChild"
+  ],
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webmodules/prepend-child/issues"
+  },
+  "homepage": "https://github.com/webmodules/prepend-child"
+}
