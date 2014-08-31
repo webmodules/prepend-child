@@ -12,10 +12,5 @@ module.exports = prependChild;
  */
 
 function prependChild (element, child) {
-  var first = element.firstChild;
-  if (first) {
-    return element.insertBefore(child, first);
-  } else {
-    return element.appendChild(child);
-  }
+  return element.insertBefore(child, element.firstChild || null)
 }
