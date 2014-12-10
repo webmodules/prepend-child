@@ -1,0 +1,20 @@
+{
+  "name": "prepend-child",
+  "repo": "webmodules/prepend-child",
+  "description": "The inverse of `Element#appendChild()`.",
+  "version": "1.0.0",
+  "keywords": [
+    "browser",
+    "element",
+    "append",
+    "prepend",
+    "child",
+    "appendChild",
+    "prependChild"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
